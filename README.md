@@ -23,9 +23,9 @@
 
 ## ⚡ Skills & Tools  
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white) 
 ![Perl](https://img.shields.io/badge/-Perl-lightgrey?logo=perl&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) 
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white) 
 ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) 
 ![Bash](https://img.shields.io/badge/-Bash-grey?logo=gnubash&logoColor=white) 
@@ -38,7 +38,7 @@
 ---
 
 ### 🧑‍💻 Programming & Scripting
-- **Python** (NumPy, Pandas, Biopython, Matplotlib, Seaborn)  
+- **Python** (Biopython, Matplotlib, Seaborn)  
 - **R** (tidyverse, ggplot2, edgeR, DESeq2)  
 - **Perl** (sequence handling & automation)  
 - **Shell scripting** (Bash, Linux environment)  
