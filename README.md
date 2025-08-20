@@ -22,11 +22,7 @@
 ---
 
 ## ​​ Skills & Tools  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)  
-![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white)  
-![Perl](https://img.shields.io/badge/-Perl-lightgrey?logo=perl&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-lightgrey?logo=perl&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
 
 ---
 
