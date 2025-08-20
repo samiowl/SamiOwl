@@ -1,18 +1,9 @@
 <p align="center">
-  <svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
-    <rect x="0" y="0" width="900" height="300" rx="20" ry="20" />
-    <image
-      href="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
-      width="900" height="300"
-      preserveAspectRatio="xMidYMid slice"
-      clip-path="url(#round)"
-    />
-    <defs>
-      <clipPath id="round">
-        <rect x="0" y="0" width="900" height="300" rx="20" ry="20"/>
-      </clipPath>
-    </defs>
-  </svg>
+  <img
+    src="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
+    alt="Bioinformatics banner"
+    style="max-width:100%; width:900px; border-radius:16px;"
+  />
 </p>
 
 # ​ Hi, I’m Samiul
