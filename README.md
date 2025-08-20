@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/samiowl/samiowl/main/assets/banner.png)
+
 # ​ Hi, I’m Samiul
 
 🎓 MSc Bioinformatics Student | 🔬 Microbiology Background | 💻 Open Source Enthusiast
