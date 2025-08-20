@@ -1,11 +1,6 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
-    alt="Banner"
-    width="900"
-    style="border-radius:16px;"
-  />
-</p>
+<img src="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
+     alt="profile"
+     style="width:200px; height:200px; border-radius:20px; object-fit:cover;" />
 
 # ​ Hi, I’m Samiul
 
