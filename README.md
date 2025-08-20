@@ -1,11 +1,18 @@
 <p align="center">
-  <div style="display:inline-block; border-radius:16px; overflow:hidden;">
-    <img
-      src="https://raw.githubusercontent.com/samiowl/samiowl/main/assets/banner.png"
-      alt="Bioinformatics banner"
-      width="900"
+  <svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg">
+    <rect x="0" y="0" width="900" height="300" rx="20" ry="20" />
+    <image
+      href="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
+      width="900" height="300"
+      preserveAspectRatio="xMidYMid slice"
+      clip-path="url(#round)"
     />
-  </div>
+    <defs>
+      <clipPath id="round">
+        <rect x="0" y="0" width="900" height="300" rx="20" ry="20"/>
+      </clipPath>
+    </defs>
+  </svg>
 </p>
 
 # ​ Hi, I’m Samiul
