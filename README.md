@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/samiowl/samiowl/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png)
 
 # ​ Hi, I’m Samiul
 
