@@ -1,9 +1,9 @@
-![Banner]
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
     alt="Bioinformatics banner"
-    style="max-width:100%; width:900px; border-radius:16px;"
+    width="900"
+    style="border-radius:16px;"
   />
 </p>
 
