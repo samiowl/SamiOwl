@@ -1,6 +1,12 @@
-<img src="https://raw.githubusercontent.com/samiowl/SamiOwl/refs/heads/main/1375523.png"
-     alt="profile"
-     style="width:200px; height:200px; border-radius:20px; object-fit:cover;" />
+<p align="center">
+  <div style="display:inline-block; border-radius:16px; overflow:hidden;">
+    <img
+      src="https://raw.githubusercontent.com/samiowl/samiowl/main/assets/banner.png"
+      alt="Bioinformatics banner"
+      width="900"
+    />
+  </div>
+</p>
 
 # ​ Hi, I’m Samiul
 
