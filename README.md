@@ -39,9 +39,7 @@
 ---
 
 ## ​ Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samiul-haque-30582430b/)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:haquesamiul80@gmail.com)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/averagecloudenjoyer)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/samiul-haque-30582430b/)  [![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:haquesamiul80@gmail.com)  [![Linktree](https://img.shields.io/badge/Linktree-39E09B?logo=linktree&logoColor=white)](https://linktr.ee/averagecloudenjoyer)  
 
 ---
 ⭐ *Feel free to check out my repositories and collaborate!*  
