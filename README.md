@@ -21,8 +21,71 @@
 
 ---
 
-## ​​ Skills & Tools  
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) ![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white) ![Perl](https://img.shields.io/badge/-Perl-lightgrey?logo=perl&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white) ![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white)  
+## ⚡ Skills & Tools  
+
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white) 
+![R](https://img.shields.io/badge/-R-blue?logo=r&logoColor=white) 
+![Perl](https://img.shields.io/badge/-Perl-lightgrey?logo=perl&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-orange?logo=git&logoColor=white) 
+![Bash](https://img.shields.io/badge/-Bash-grey?logo=gnubash&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white) 
+![Conda](https://img.shields.io/badge/-Conda-green?logo=anaconda&logoColor=white) 
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?logo=jupyter&logoColor=white) 
+![VS Code](https://img.shields.io/badge/-VS%20Code-blue?logo=visualstudiocode&logoColor=white) 
+![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown&logoColor=white)  
+
+---
+
+### 🧑‍💻 Programming & Scripting
+- **Python** (NumPy, Pandas, Biopython, Matplotlib, Seaborn)  
+- **R** (tidyverse, ggplot2, edgeR, DESeq2)  
+- **Perl** (sequence handling & automation)  
+- **Shell scripting** (Bash, Linux environment)  
+
+### 🧬 Bioinformatics Tools & Databases
+- **NCBI** (BLAST, GEO, SRA)  
+- **UniProt, PDB, Pfam**  
+- **Ensembl Genome Browser**  
+- **ExPASy suite** (ProtParam, Translate, SwissSidechain)  
+- **STRING** (protein-protein interactions)  
+- **MEGA** (phylogenetic analysis)  
+
+### 📊 Data Analysis & Statistics
+- **RStudio** (statistical analysis, visualization)  
+
+### 🧩 Structural Biology Tools
+- **PyMOL, Chimera, ChimeraX**  
+- **AlphaFold DB**  
+- **Tertiary Structure Prediction Tools**  
+  - [Modeller](https://www.salilab.org/modeller/)  
+  - [SWISS-MODEL](https://swissmodel.expasy.org/)  
+  - [AlphaFold Protein Structure Database](https://alphafoldserver.com/)  
+  - [Robetta (Baker Lab)](https://robetta.bakerlab.org)  
+  - [I-TASSER (Zhang Lab)](https://zhanggroup.org/)  
+- **Structure Validation / Comparison**  
+  - [SWISS-MODEL Structure Assessment](https://swissmodel.expasy.org/assess)  
+  - [PROCHECK](https://www.ebi.ac.uk/thornton-srv/software/PROCHECK/download.html)  
+  - [DOE-MBI Services](https://www.doe-mbi.ucla.edu/services)  
+
+*(Secondary structures can be extracted from predicted 3D structures before validation and comparison.)*  
+
+### ⚙️ Workflow & Pipelines
+- **Galaxy platform**  
+- **Snakemake** (basic pipeline automation)  
+- **Nextflow** (intro level)  
+
+### ☁️ Cloud & HPC
+- **Google Colab / Kaggle notebooks**  
+- **Cluster computing basics** (batch job submission, Linux servers)  
+
+### 📑 Document Preparation
+- **LaTeX** (scientific writing, reports)  
+- **Markdown** (GitHub-friendly docs, READMEs)  
+
+### 🌐 Web & Development Basics
+- **HTML, CSS** (for portfolio/CV pages)  
+- **Git & GitHub** (version control, project hosting)    
 
 ---
 
